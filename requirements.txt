@@ -1,0 +1,11 @@
+atlasopenmagic
+uproot
+awkward
+fsspec
+aiohttp
+requests
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
